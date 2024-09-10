@@ -1,6 +1,6 @@
 # Loan Application Prediction
 
-This project predicts the approval status of two-wheeler loan applications based on data from various applicants and third-party sources. It uses machine learning techniques, primarily focusing on Random Forest classification, to predict whether an application will be **APPROVED** or **DECLINED**.
+This project predicts the approval status of two-wheeler loan applications based on data from various applicants and third-party sources. It uses machine learning techniques, primarily focusing on Random Forest classification, to predict whether an application will be **APPROVED** or **DECLINED**.  **Note:** In the predictions.csv file **DEALER ID=UID** .
 
 ## Table of Contents
 - [Introduction](#introduction)
